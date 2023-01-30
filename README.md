@@ -4,7 +4,7 @@
 
 ## 💻 Projeto
 
-O projeto simula um site de previsão do tempo, onde pela localização do usuário apresenta a previsão do tempo local, e também tem a opção de buscar por cidade para saber a previsão. Foi usado a API do site <a href="openweathermap.org">Open Weather Map</a> para a busca, e o projeto é do <a href="https://www.youtube.com/c/Brenocuper">Bruno Cuper</a>, com apenas algumas alterações da estilização.
+O projeto simula um site de previsão do tempo, onde pela localização do usuário apresenta a previsão do tempo local, e também tem a opção de buscar por cidade para saber a previsão. Foi usado a API do site <a href="openweathermap.org">Open Weather Map</a> para a busca, e o projeto é do <a href="https://www.youtube.com/c/Brenocuper">Breno Cuper</a>, com apenas algumas alterações da estilização.
 
 ## 🚀 Tecnologias
 
